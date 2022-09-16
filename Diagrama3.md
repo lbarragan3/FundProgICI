@@ -1,6 +1,6 @@
 # Problema 3
 ## Resolución de problemas en clase con Diagramas de Flujo de Datos
-### Ejercicio 3. Escribir un algoritmo
+### Ejercicio 3. Escribir un algoritmo que escriba "Hola, nombre"
 #### 1.1 Análisis
 Utilizar el símbolo de proceso para realizar la asignación de la cadena del mensaje y posteriormente utilizar el símbolo de salida de datos para imprimirlo
 #### 1.2 Diagrama de Flujo de Datos
