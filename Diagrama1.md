@@ -1,4 +1,4 @@
-# Presentación
+# Diagrama 1
 ## Resolución de problemas en clase con Diagramas de Flujo de Datos
 ### Ejercicio 1. Imprimir el nombre de una persona
 #### 1.1 Análisis
