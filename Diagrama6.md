@@ -4,8 +4,9 @@
 #### 1.1 Análisis
 Utilizar el símbolo de proceso para asignarle un valor a n y posteriormente usar el símbolo de salida de datos para imprimir n por n
 #### 1.2 Diagrama de Flujo de Datos
+![Diagrama_6](https://user-images.githubusercontent.com/113486125/190933654-6d46d358-5694-4ecb-ba4e-225d127f12df.png)
+
 Diagrama_6
-[![Diagrama-6.jpg](https://i.postimg.cc/RFWR6Kvr/Diagrama-6.jpg)](https://postimg.cc/k6d8LVVw)
 #### 1.3 Prueba de Escritorio
 | Mensaje | Salida |
 | ----------- | ----------- |
