@@ -4,8 +4,9 @@
 #### 1.1 Análisis
 Utilizar el símbolo de salida de datos para multiplicar dos por dos
 #### 1.2 Diagrama de Flujo de Datos
+![Diagrama_5](https://user-images.githubusercontent.com/113486125/190933633-26289a8e-8ae4-488f-aec5-5a49b0a36e2b.png)
+
 Diagrama_5
-[![Diagrama-5.jpg](https://i.postimg.cc/3wJ9hz6x/Diagrama-5.jpg)](https://postimg.cc/Sn3c71kB)
 #### 1.3 Prueba de Escritorio
 | Mensaje | Salida |
 | ----------- | ----------- |
