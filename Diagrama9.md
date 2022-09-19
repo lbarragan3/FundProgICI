@@ -1,6 +1,6 @@
-# Diagrama 8
+# Diagrama 9
 ## Resolución de problemas en clase con Diagramas de Flujo de Datos
-### Ejercicio 8. Preguntar el año de nacimiento de una persona y calcular su edad.
+### Ejercicio 9. Preguntar el año de nacimiento de una persona y calcular su edad.
 #### 1.1 Análisis
 Utilizar el símbolo de salida de datos para preguntar el año de nacimiento al usuario, usando el símbolo de entrada de datos el usuario ingresara su año de nacimiento para finalmente con el uso del símbolo de salida de datos calcular la edad
 #### 1.2 Diagrama de Flujo de Datos
