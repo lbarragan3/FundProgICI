@@ -8,10 +8,10 @@ Utilizar el símbolo de salida de datos para preguntar el año de nacimiento al 
 
 Diagrama_1
 #### 1.3 Prueba de Escritorio
-| Mensaje | Salida |
-| ----------- | ----------- |
-| "Luis" | Luis |
+| Datos | Mensaje | Salida |
+| ----------- | ----------- | ----------- |
+| a_nac | "2022-a_nac" | 2022-a_nac |
 #### 1.4 Entradas
-Ninguna, solo se asigna la cadena "Luis" a la variable mensaje
+Año de nacimiento del usuario
 #### Salidas
-Luis
+2022-a_nac
